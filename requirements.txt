@@ -1,5 +1,6 @@
 streamlit==1.33.0
 transformers==4.40.0
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.2.2
 pandas==2.2.2
 plotly==5.22.0
