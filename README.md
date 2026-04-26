@@ -1,3 +1,15 @@
+---
+title: Mental Health Tracker
+emoji: 🧠
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.33.0
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # Mental Health Sentiment Tracker
 
 An AI-powered web application that analyzes journal entries to detect emotions and mental health risk levels, computing a unified wellness score and visualizing trends over time.
