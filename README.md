@@ -1,6 +1,5 @@
 ---
-title: Mental Health Tracker
-emoji: 🧠
+Title: Mental Health Tracker
 colorFrom: blue
 colorTo: purple
 sdk: streamlit
